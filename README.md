@@ -8,7 +8,7 @@ Repositório dedicado aos cursos que concluí na área de tecnologia, programaç
 ### 1. Fundamentos em Python
 - **Carga horária:** 8 horas
 - **Conclusão:** 26/10/2026
-- [Visualizar certificado](certificado%20python.pdf)
+- [Visualizar certificado](https://fit-tecnologia.org.br/ava/mod/customcert/view.php?id=362&downloadown=)
 
 ### 2. Introdução a Sistemas Embarcados
 - **Carga horária:** 8 horas
@@ -19,9 +19,12 @@ Repositório dedicado aos cursos que concluí na área de tecnologia, programaç
 ### 3. Fundamentos de Inteligência Artificial para Sistemas Embarcados
 - **Carga horária:** [informe a carga horária]
 - **Conclusão:** [informe a data]
-- [Visualizar certificado](fundamentos-ia-sistemas-embarcados.pdf)
+- [Visualizar certificado](
+### 3. Fundamentos de Inteligência Artificial para Sistemas Embarcados
 
-
+- **Instituição:** FIT — Tecnologia
+- **Certificado:** [Visualizar certificado](https://fit-tecnologia.org.br/ava/mod/customcert/view.php?id=367&downloadown=1)
+  
 ## 🎯 Objetivo
 
 Continuar desenvolvendo minhas habilidades em programação, Python e sistemas embarcados, aplicando os conhecimentos em projetos práticos.
