@@ -13,17 +13,13 @@ Repositório dedicado aos cursos que concluí na área de tecnologia, programaç
 ### 2. Introdução a Sistemas Embarcados
 - **Carga horária:** 8 horas
 - **Conclusão:** 20/10/2026
-- [Visualizar certificado](introdu%C3%A7%C3%A3o%20sistemas%20embarcados.pdf)
-
-- 
+- [Visualizar certificado](https://fit-tecnologia.org.br/ava/mod/customcert/view.php?id=366&downloadown=1)
+  
 ### 3. Fundamentos de Inteligência Artificial para Sistemas Embarcados
-- **Carga horária:** [informe a carga horária]
-- **Conclusão:** [informe a data]
-- [Visualizar certificado](
-### 3. Fundamentos de Inteligência Artificial para Sistemas Embarcados
-
-- **Instituição:** FIT — Tecnologia
-- **Certificado:** [Visualizar certificado](https://fit-tecnologia.org.br/ava/mod/customcert/view.php?id=367&downloadown=1)
+- **Carga horária:** 6 horas
+- **Conclusão:** 28/10/2026
+- [Visualizar certificado](https://fit-tecnologia.org.br/ava/mod/customcert/view.php?id=367&downloadown=1)
+  
   
 ## 🎯 Objetivo
 
