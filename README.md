@@ -15,6 +15,13 @@ Repositório dedicado aos cursos que concluí na área de tecnologia, programaç
 - **Conclusão:** 20/10/2026
 - [Visualizar certificado](introdu%C3%A7%C3%A3o%20sistemas%20embarcados.pdf)
 
+- 
+### 3. Fundamentos de Inteligência Artificial para Sistemas Embarcados
+- **Carga horária:** [informe a carga horária]
+- **Conclusão:** [informe a data]
+- [Visualizar certificado](fundamentos-ia-sistemas-embarcados.pdf)
+
+
 ## 🎯 Objetivo
 
 Continuar desenvolvendo minhas habilidades em programação, Python e sistemas embarcados, aplicando os conhecimentos em projetos práticos.
