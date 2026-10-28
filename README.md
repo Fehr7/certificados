@@ -16,7 +16,7 @@ Repositório dedicado aos cursos que concluí na área de tecnologia, programaç
 - [Visualizar certificado](https://fit-tecnologia.org.br/ava/mod/customcert/view.php?id=366&downloadown=1)
   
 ### 3. Fundamentos de Inteligência Artificial para Sistemas Embarcados
-- **Carga horária:** 6 horas
+- **Carga horária:** 8 horas
 - **Conclusão:** 28/10/2026
 - [Visualizar certificado](https://fit-tecnologia.org.br/ava/mod/customcert/view.php?id=367&downloadown=1)
   
